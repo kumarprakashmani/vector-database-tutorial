@@ -56,16 +56,17 @@ Here are the main ways vector databases organize data, in simple terms:
 
 
 
-## How This Helps You Get a Gen AI Job
+
 - **In Interviews**: Explain indexing methods to show you understand RAG systems. For example, say: “HNSW is great for real-time chatbots because it’s fast and accurate, but PQ saves memory for large-scale image search.”
 - **In Projects**: Build a simple RAG system using a vector database (e.g., Pinecone, Weaviate) and mention indexing in your portfolio.
 - **Skills to Highlight**: List “Vector Databases,” “Semantic Search,” or “RAG” on your resume and LinkedIn.
 
 ## Next Steps
 1. Play with the animation to visualize indexing.
-2. Learn about vector databases like **FAISS**, **Pinecone**, or **Weaviate**.
-3. Try a hands-on project, like building a Q&A chatbot with RAG.
-4. Share your learnings or questions in the comments of my LinkedIn post!
+2. link https://kumarprakashmani.github.io/vector-database-tutorial/index.html
+3. Learn about vector databases like **FAISS**, **Pinecone**, or **Weaviate**.
+4. Try a hands-on project, like building a Q&A chatbot with RAG.
+5. Share your learnings or questions in the comments of my LinkedIn post!
 
 Happy learning, and good luck landing that Gen AI job! 🚀
 
