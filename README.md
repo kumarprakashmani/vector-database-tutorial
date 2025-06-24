@@ -75,4 +75,4 @@ Happy learning, and good luck landing that Gen AI job! 🚀
 
 ---
 
-*Created by [Your Name] for aspiring Gen AI professionals.*
+*Created by [KUMAR PRAKASH MANI] for aspiring Gen AI professionals.*
