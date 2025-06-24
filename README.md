@@ -1,4 +1,4 @@
-# Vector Database Indexing: A Beginner’s Guide for Gen AI Jobs
+# Vector Database Indexing: A Beginner’s Guide for Gen AI Aspirants
 
 Welcome to this beginner-friendly tutorial on **vector database indexing**! If you’re aiming for a **Generative AI (Gen AI)** job, understanding how vector databases work is key. They’re used in **Retrieval-Augmented Generation (RAG)** systems, like chatbots or search engines, to quickly find relevant data. **Indexing** is how these databases organize data for fast searches. Let’s break it down!
 
