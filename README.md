@@ -53,12 +53,8 @@ Here are the main ways vector databases organize data, in simple terms:
    - **Cons**: Not as compact as PQ.
    - **Use**: Medium datasets with memory limits.
 
-## Try It Yourself!
-To see these methods in action, check out this **interactive animation** built with p5.js:
-- **Link**: [Insert Animation Link, e.g., GitHub Pages or Hosted URL]
-- **How to use**: Open the link, press the SPACE key to cycle through methods, and watch how data points are organized and searched. It’s like a visual playground for indexing!
 
-If you can’t access the link, download the animation code here: [Insert Link to Animation Code, e.g., Google Drive] and open `index.html` in a browser.
+
 
 ## How This Helps You Get a Gen AI Job
 - **In Interviews**: Explain indexing methods to show you understand RAG systems. For example, say: “HNSW is great for real-time chatbots because it’s fast and accurate, but PQ saves memory for large-scale image search.”
